@@ -61,5 +61,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- Email: [berkinkagan03@gmail.com]
+- Email: berkinkagan03@gmail.com
 
