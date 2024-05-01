@@ -53,13 +53,13 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC.
 
 ## Contributors
-- [Name 1]
-- [Name 2]
-- [More Names]
+- Mustafa Berkan Yikilmaz
+- Kaoutar Mesbahi
+- Berkin Kagan Ates
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- **Lead Researcher**: [Name] - Email: [email]
-- **Project Link**: [repository-url]
+- Email: [berkinkagan03@gmail.com]
+
